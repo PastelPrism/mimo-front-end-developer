@@ -1,0 +1,25 @@
+img {
+  border-radius: 75px 75px 75px 75px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+body {
+  background-color: slateblue;
+  font-family: "Trebuchet MS";
+  color: white;
+  text-align: center;
+}
+
+a {
+  background-color: white;
+  font-size: 20px;
+  border-radius: 10px 10px 10px 10px;
+  padding: 10px 0;
+  display: block;
+  text-align: center;
+  margin: 10px;
+  color: slateblue;
+}
