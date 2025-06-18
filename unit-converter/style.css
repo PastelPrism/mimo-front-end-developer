@@ -1,0 +1,19 @@
+body {
+  background-color: lightblue;
+  padding: 20px;
+}
+
+h1 {
+  padding: 20px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+p {
+  background-color: rgb(253, 178, 253);
+  color: rgb(114, 101, 101);
+  border-radius: 5px;
+  width: 200px;
+  height: 50px;
+  padding: 5px;
+}
