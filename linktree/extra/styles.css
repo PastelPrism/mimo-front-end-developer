@@ -1,0 +1,76 @@
+img {
+  border-radius: 75px 75px 75px 75px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+body {
+  background-color: rgb(136, 210, 240);
+  font-family: "Trebuchet MS";
+  color: white;
+  text-align: center;
+}
+
+a {
+  background-color: white;
+  font-size: 20px;
+  border-radius: 10px 10px 10px 10px;
+  padding: 10px 0;
+  display: block;
+  text-align: center;
+  margin: 50px;
+  color: slateblue;
+}
+
+
+/*Make a profile card and apply styles */
+
+.profile-card {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(56, 138, 110);
+  color: rgb(219, 231, 227);
+  border-radius: 15px;
+  box-shadow: 0 14px 24px rgba(0, 0, 0, 0.575);
+}
+
+.profile-card img {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+}
+
+.profile-card h1 {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.profile-card h2 {
+  font-size: 20px;
+  margin: 5px 0;
+}
+
+.profile-card p {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.profile-links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-links a {
+  margin: 0 10px;
+  padding: 10px 20px;
+  background-color: white;
+  color: slateblue;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
