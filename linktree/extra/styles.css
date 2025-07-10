@@ -45,7 +45,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 0.5rem;
+  gap: 4.7rem;
 }
 
 .profile-links a {
